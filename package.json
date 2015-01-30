@@ -1,0 +1,17 @@
+{
+  "name": "md2bl",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"start": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "blessed": "0.0.38",
+    "console-highlight": "^0.1.0"
+  }
+}
